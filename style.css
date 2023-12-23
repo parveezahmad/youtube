@@ -8,7 +8,7 @@
     }
 
 body {
-    background-image: url("moon.jpg");
+    background-image: url("./moon.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
